@@ -1,0 +1,14 @@
+C:\Users\Rinushi Bernardine\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.exe
+C:\Users\Rinushi Bernardine\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.deps.json
+C:\Users\Rinushi Bernardine\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.runtimeconfig.json
+C:\Users\Rinushi Bernardine\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.dll
+C:\Users\Rinushi Bernardine\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.pdb
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfo.cs
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.dll
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\refint\ExpenseTracker.dll
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.pdb
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.genruntimeconfig.cache
+C:\Users\Rinushi Bernardine\ExpenseTracker\obj\Debug\net10.0\ref\ExpenseTracker.dll
