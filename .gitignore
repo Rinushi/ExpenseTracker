@@ -1,0 +1,6 @@
+## Build output and IDE files - these should NOT be stored in Git
+bin/
+obj/
+.vs/
+*.user
+expenses.json
